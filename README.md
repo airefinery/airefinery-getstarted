@@ -50,7 +50,7 @@ The AI module categorizes images in the following concepts:
     - `Top` - Top body parts
     - `Bottom` - Bottom body parts
     - `Full` - Full body parts
-- More coming soon...Request [here](mailto:dockaico@gmail.com)
+- More coming soon...Request [here](mailto:airefinery@outlook.com)
 
 
 ## QUICK: How to use the module
@@ -101,7 +101,7 @@ Without `async/await` support:
 
 Before you can classify any image, you'll need to load the model. You should use the optional first parameter and load the model from your website, as explained in the install directions.
 
-Model example - [224x224](https://github.com/infinitered/AI Refinery/blob/master/example/nsfw_demo/public/quant_nsfw_mobilenet/)
+Model example - [224x224](https://github.com/AIRefinery/blob/master/models/nsfw_demo/public/quant_nsfw_mobilenet/)
 
 ```js
     initAI(concepts, '/path/to/model/directory/')
